@@ -1,0 +1,1 @@
+# This is a pantry tracker app, leveraged with AI.
